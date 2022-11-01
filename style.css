@@ -1,0 +1,35 @@
+* {
+  text-align: center;
+}
+h1 {
+  font-size: 3rem;
+  margin-top: 4rem;
+  color: purple;
+  margin-top: 1%;
+}
+
+div {
+  background-color: black;
+}
+p {
+  font-size: 1.5rem;
+  color: rgb(0, 0, 0);
+  margin-top: 2rem;
+}
+button {
+  color: orange;
+  font-size: 1.5rem;
+}
+
+input {
+  line-height: 1.5rem;
+  width: 20%;
+  background-color: azure;
+  color: rgb(102, 11, 11);
+  font-size: 1.5rem;
+}
+
+#result{
+font-size: 2rem;
+color: purple;
+}
